@@ -45,7 +45,7 @@
     <img src="https://img.shields.io/static/v1?message=Codesandbox&logo=codesandbox&label=&color=040404&logoColor=DBDBDB&labelColor=&style=for-the-badge" height="35" alt="codesandbox logo"  />
   </a>
   <a href="https://leetcode.com/1709abhishek" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
+    <img src="https://img.shields.io/static/v1?message=Leetcode&logo=leetcode&label=&color=white&logoColor=black&labelColor=&style=for-the-badge" height="35" alt="leetcode logo"  />
   </a>
 </div>
 
