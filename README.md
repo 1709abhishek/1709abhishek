@@ -2,10 +2,6 @@
 
 ###
 
-
-
-###
-
 <img align="right" height="150" src="https://imgflip.com/gif/8hp1jj"  />
 
 ###
@@ -42,6 +38,7 @@
     <img src="https://img.shields.io/static/v1?message=Leetcode&logo=leetcode&label=&color=white&logoColor=black&labelColor=&style=for-the-badge" height="35" alt="leetcode logo"  />
   </a>
 </div>
+
 
 
 ###
@@ -88,6 +85,18 @@
   <img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/1709abhishek?cardType=level&preferLogin=false" alt="1709abhishek's GitHub Stats" />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://leetcode-stats.vercel.app/api?username=1709abhishek&theme=Light" alt="1709abhishek's LeetCode Stats" />
 </div>
 
 ###
