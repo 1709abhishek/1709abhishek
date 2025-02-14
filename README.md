@@ -1,29 +1,26 @@
 <h2 align="left">Hi 👋! My name is Abhishek Jain and I'm a Fullstack Developer.</h2>
 
 ###
+<h2>About me</h2>
+<ul>
+<li>Pursuing Masters in Computer Science @ Purdue University.</li>
+</ul>
+
+###
+<h2>Experience Highlight</h2>
+<ul>
+<li><b>Auditboard</b>: Collaborated in the Docs Pod at Auditboard, facilitating the integration of client document-handling mechanisms across the application. Spearheaded the replacement of MINIO with native Azure Blob Storage support, mitigating security vulnerabilities faced by major clients such as Microsoft and Walmart, and securing a deal worth nearly 7 figures.</li>
+<li><b>Avalara</b>: Worked in product engineering of beverage alcohol for Avalara, a client-facing portal for automating tax calculations, license generations, and other product shipment facilities.</li>
+</ul>
+
+###
 
 <img align="right" height="150" src="https://imgflip.com/gif/8hp1jj"  />
 
-###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-</div>
 
 ###
-
+<h2>Connect with me</h2>
 <div align="left">
   <a href="https://instagram.com/abhishek.jain_97" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
@@ -42,7 +39,7 @@
 
 
 ###
-
+<h2>Tech Stack</h2>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -88,7 +85,7 @@
 </div>
 
 ###
-
+<h2>Coding Profiles</h2>
 <div align="center">
   <img src="https://awesome-github-stats.azurewebsites.net/user-stats/1709abhishek?cardType=level&preferLogin=false" alt="1709abhishek's GitHub Stats" />
 </div>
