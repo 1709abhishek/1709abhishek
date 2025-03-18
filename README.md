@@ -1,9 +1,15 @@
-<h2 align="left">Hi 👋! My name is Abhishek Jain and I'm a Fullstack Developer.</h2>
+<h2 align="left">Hi 👋! My name is Abhishek Jain and I'm a passionate software engineer</h2>
 
 ###
 <h2>About me</h2>
 <ul>
-<li>Pursuing Masters in Computer Science @ Purdue University.</li>
+  <blockquote>"From my earliest days, I've been captivated by software's power to solve complex problems at scale. What others see as simple features—a YouTube notification bell or Instagram like count—I recognize as elegant engineering challenges when deployed to millions.
+
+With an MS in Computer Science from Purdue and 4+ years of experience across full-stack development and DevOps, I've delivered high-impact solutions at Product based companies. I've reduced development time by 40% through component library integration, saved $100K annually by migrating authentication services in-house, and secured major enterprise deals by implementing mission-critical infrastructure security enhancements for Fortune 100 clients.
+
+My passion projects like Travelopedia (built with React, Spring Boot Microservices, Redis, and Kubernetes) and my AI-driven "Rap Music Generation" system reflect my commitment to creating enterprise-maintainable, scalable solutions that merge technology with creativity.
+
+When I'm not coding, I'm mentoring the next generation of engineers at ed-tech platforms like Coding Ninjas and Masai School, giving back to the community that helped shape me." </blockquote>
 </ul>
 
 ###
